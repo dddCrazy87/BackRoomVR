@@ -1,0 +1,2 @@
+C:\Users\Accelerator\Documents\My\UnityGameProject\BackRoomVR\BackRoomVR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Accelerator\Documents\My\UnityGameProject\BackRoomVR\BackRoomVR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
